@@ -7,6 +7,9 @@ Result Saliency Map
 
 提取码：2wm3  
 
+## Architecture
+![](./SSRCmain.jpg)
+
 
 
 
