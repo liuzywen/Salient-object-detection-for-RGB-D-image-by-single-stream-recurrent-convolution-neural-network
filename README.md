@@ -7,6 +7,6 @@ Result Saliency Map
 
 提取码：2wm3  
 
-![这里随便填写](AAA);
+![这里随便填写](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-image-by-single-stream-recurrent-convolution-neural-network/blob/master/SSRCmain.png);
 
 
