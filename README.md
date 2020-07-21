@@ -7,32 +7,6 @@ Result Saliency Map
 
 提取码：2wm3  
 
-bibfile:  
-
-@article{liu2019salient,  
-
-
-  title={Salient object detection for RGB-D image by single stream recurrent convolution neural network},  
-
-
-  author={Liu, Zhengyi and Shi, Song and Duan, Quntao and Zhang, Wei and Zhao, Peng},  
-
-
-  journal={Neurocomputing},  
-
-
-  volume={363},  
-
-
-  pages={46--57},  
-
-
-  year={2019},  
-
-
-  publisher={Elsevier}  
-
-
-}  
+![这里随便填写](AAA);
 
 
