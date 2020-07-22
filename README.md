@@ -2,7 +2,7 @@
 by Zhengyi Liu, details are in [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219309403).
 
 
-Result Saliency Map  
+### Result Saliency Map  
 
 百度链接：https://pan.baidu.com/s/1EJ46Pv2LTB9F_CSInLQ0mw   
 
@@ -10,7 +10,7 @@ Result Saliency Map
 
 ### Citation
 
-If you find the code or trained models useful, please consider citing:
+If you find the information useful, please consider citing:
 
 ```
 @article{liu2019salient,
